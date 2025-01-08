@@ -58,7 +58,7 @@ When the initial condition is like this:
 <div align="center">
 <img src="https://github.com/user-attachments/assets/70be1de0-fd49-4f0b-ac9d-e74ec1f6d6e7" alt="Image Description" width="500"/>
 </div>
-The FEniCS simulation result is like:
+The FEniCS simulation result is like(time step is 0.001s, start from 0.001s):
 
 https://github.com/user-attachments/assets/20b19cc4-7732-4095-af2f-a4d146155d47
 
@@ -66,7 +66,7 @@ When the initial condition is like this:
 <div align="center">
 <img src="https://github.com/user-attachments/assets/fbb622aa-480e-43f6-8e31-9693f36c37a3" alt="Image Description" width="500"/>
 </div>
-The FEniCS simulation result is like:
+The FEniCS simulation result is like(time step is 0.001s, start from 0.001s):
 
 https://github.com/user-attachments/assets/a2cd954c-28e9-4c90-8cdd-b7635baa7eb8
 
