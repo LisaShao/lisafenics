@@ -34,8 +34,20 @@ https://github.com/user-attachments/assets/52ab9e48-b447-442f-ac98-9e71158bd11d
 ### 1. Circle domain diffusion coefficient
 Problem setup here: 
 <div align="center">
-<img src="https://github.com/user-attachments/assets/98c97118-2e38-4f39-9e03-1033fef63a1e" alt="Image Description" width="500"/>
+<img src="https://github.com/user-attachments/assets/aa47db0f-90db-4676-b2c5-307132bf85c8" alt="Image Description" width="600"/>
 </div>
+The initial condition is like:
+<div align="center">
+<img src="https://github.com/user-attachments/assets/4da30007-6fed-463a-982b-8735c3c99d5b" alt="Image Description" width="600"/>
+</div>
+The FEniCS simulation result is like:
+
+https://github.com/user-attachments/assets/0dcc05c8-758c-4d83-9e06-742f8599cdb8
+
+#### 2. Gaussian Random Field (GRF) diffusion coefficient
+First setup the gaussian random field
+
+
 
 
 
