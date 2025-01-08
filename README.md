@@ -38,14 +38,38 @@ Problem setup here:
 </div>
 The initial condition is like:
 <div align="center">
-<img src="https://github.com/user-attachments/assets/4da30007-6fed-463a-982b-8735c3c99d5b" alt="Image Description" width="600"/>
+<img src="https://github.com/user-attachments/assets/4da30007-6fed-463a-982b-8735c3c99d5b" alt="Image Description" width="500"/>
 </div>
 The FEniCS simulation result is like:
 
 https://github.com/user-attachments/assets/0dcc05c8-758c-4d83-9e06-742f8599cdb8
 
-#### 2. Gaussian Random Field (GRF) diffusion coefficient
+### 2. Gaussian Random Field (GRF) diffusion coefficient
 First setup the gaussian random field
+(The gaussian random field generation code is reference to this website: https://colab.research.google.com/drive/1_ncib8xKnmhdi1dkyr9MjJePDOxAcygQ?usp=sharing#scrollTo=8aStvt52u5Jd)
+<div align="center">
+<img src="https://github.com/user-attachments/assets/45b5eb92-ee8d-41cb-803c-e6bced2677ee" alt="Image Description" width="500"/>
+</div>
+The IBVP is:
+<div align="center">
+<img src="https://github.com/user-attachments/assets/c61016c2-c9d5-4b2e-ac9d-f744d7275fe5" alt="Image Description" width="500"/>
+</div>
+When the initial condition is like this:
+<div align="center">
+<img src="https://github.com/user-attachments/assets/70be1de0-fd49-4f0b-ac9d-e74ec1f6d6e7" alt="Image Description" width="500"/>
+</div>
+The FEniCS simulation result is like:
+
+https://github.com/user-attachments/assets/20b19cc4-7732-4095-af2f-a4d146155d47
+
+When the initial condition is like this:
+<div align="center">
+<img src="https://github.com/user-attachments/assets/fbb622aa-480e-43f6-8e31-9693f36c37a3" alt="Image Description" width="500"/>
+</div>
+The FEniCS simulation result is like:
+
+https://github.com/user-attachments/assets/a2cd954c-28e9-4c90-8cdd-b7635baa7eb8
+
 
 
 
