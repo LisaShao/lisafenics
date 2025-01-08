@@ -2,7 +2,6 @@
 ## Overview:
 This project computationally designs a heterogeneous medium to exhibit a desired diffusion pattern. It focuses on solving diffusion Partial Differential Equations (PDEs) using FEniCS tool.
 ## Table of Contents:
-### Introduction
 ### 1-D Diffusion Problem
 ### 2-D Diffusion in Homogeneous Medium
 #### 1. Constant diffusion coefficient
