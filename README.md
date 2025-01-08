@@ -6,9 +6,8 @@ This project computationally designs a heterogeneous medium to exhibit a desired
 ### 2-D Diffusion in Homogeneous Medium
 #### 1. Constant diffusion coefficient
 ### 2-D Diffusion in Heterogeneous Medium
-#### 1. Gaussian diffusion coefficient
-#### 2. Circle domain diffusion coefficient
-#### 3. Gaussian Random Field (GRF) diffusion coefficient
+#### 1. Circle domain diffusion coefficient
+#### 2. Gaussian Random Field (GRF) diffusion coefficient
 
 ## 1D Diffusion Problem 
 <div align="center">
@@ -30,6 +29,14 @@ Problem setup here:
 The FEniCS simulation result is like: 
 
 https://github.com/user-attachments/assets/52ab9e48-b447-442f-ac98-9e71158bd11d
+
+## 2-D Diffusion in Heterogeneous Medium
+### 1. Circle domain diffusion coefficient
+Problem setup here: 
+<div align="center">
+<img src="https://github.com/user-attachments/assets/98c97118-2e38-4f39-9e03-1033fef63a1e" alt="Image Description" width="500"/>
+</div>
+
 
 
 
