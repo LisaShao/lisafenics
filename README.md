@@ -1,4 +1,4 @@
-# Diffusion in Non-Homogeneous Medium
+# Diffusion in Non-Homogeneous Medium 
 ## Overview:
 This project computationally designs a heterogeneous medium to exhibit a desired diffusion pattern. It focuses on solving diffusion Partial Differential Equations (PDEs) using FEniCS tool.
 ## Table of Contents:
@@ -71,6 +71,7 @@ The FEniCS simulation result is like(time step is 0.001s, start from 0.001s):
 https://github.com/user-attachments/assets/a2cd954c-28e9-4c90-8cdd-b7635baa7eb8
 
 
+## Inverse Problem:
 
 
 
